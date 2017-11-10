@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#37D378</color>
+    <color name="colorPrimaryDark">#E4E4E4</color>
+    <color name="colorAccent">#37D378</color>
+
+    <color name="toolbar_title">#DE000000</color>
+
+    <color name="line">#FFD7D7D7</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#61000000</color>
+    <color name="star_activated">#EFB661</color>
+</resources>
